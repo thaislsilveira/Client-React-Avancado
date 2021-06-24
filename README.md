@@ -7,4 +7,6 @@
     <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>  
     <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
     <li><a href="https://styled-components.com/" target="_blank">Styled Components</a></li>
+    <li><a href="https://eslint.org/" target="_blank">Eslint</a></li>
+    <li><a href="https://prettier.io/" target="_blank">Prettier</a></li>
 </ul>
